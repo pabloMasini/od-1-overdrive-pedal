@@ -1,0 +1,21 @@
+Reference,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet
+"C1,C5",2,100nF,,,,,
+C2,1,100uF,,,,,
+"C3,C9",2,10uF,,,,,
+"C4,C6,C8",3,47nF,,,,,
+C7,1,2n2F,,,,,
+D1,1,1N4001,,,,Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal,http://www.vishay.com/docs/88503/1n4001.pdf
+"D2,D3",2,1N4148,,,,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf
+"D4,D5",2,1N60,,,,Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal,
+"J1,J2",2,AudioJack2,,,,,
+R1,1,1M,,,,,
+"R2,R3,R9,R10,R13",5,10k,,,,,
+"R4,R5,R7,R8",4,1k,,,,,
+"R6,R14",2,460,,,,,
+"R11,R12",2,3k3,,,,,
+"RV1,RV2,RV3,RV7",4,100k A,,,,,
+RV4,1,1k A,,,,,
+RV5,1,100k B,,,,,
+RV6,1,1M B,,,,,
+SW1,1,SW_SPDT,,,,,
+U1,1,TL074,,,,,http://www.ti.com/lit/ds/symlink/tl071.pdf
