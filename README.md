@@ -3,6 +3,6 @@ This circuit is based on several techniques utilized in various historic overdri
 The core of it is a symmetric diode clipping circuit, with the option between silicon and germanium diodes. It incorporates a clipping threshold control, variable active single pole HPF and LPF at the input stage and a Baxandall equalizer at the output stage.
 
 ## Design files
-Here you can find the necessary files to build one.
+In the "circuit" folder you can find the necessary files to build one.
 - Schematics.
 - BOM.
